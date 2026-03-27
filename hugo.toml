@@ -1,6 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://opcompany.org/'
 locale = 'en-us'
-title = 'My New Hugo Project'
+title = 'One Person Company'
 theme = 'blowfish'
 [module]
   [module.hugoVersion]
