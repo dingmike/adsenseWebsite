@@ -1,0 +1,8 @@
+baseURL = 'https://example.org/'
+locale = 'en-us'
+title = 'My New Hugo Project'
+theme = 'blowfish'
+[module]
+  [module.hugoVersion]
+    min = "0.110.0"
+    # 这里不写 max，Hugo 就会默认跳过上限检查
