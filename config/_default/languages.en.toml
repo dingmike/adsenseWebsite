@@ -1,0 +1,35 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = 'One Person Company'
+
+[params]
+  displayName = "English"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  logo = "img/beetle_logo.png" # 这样它就会去 assets/img/ 找图
+  description = "One Person Company For Everyone."
+
+[params.author]
+  name = "One Person Company"
+  email = "mikezhangding@gmail.com"
+  image = "img/beetle_logo.png"
+  headline = "One Person Company For Everyone."
+  bio = "Many useful things for you."
+#   links = [
+#     { x-twitter = "https://twitter.com/burufugu" },
+#     { github = "https://github.com/nunocoracao/blowfish" },
+#   ]
+
+[params.homepage]
+  layout = "background" # valid options: page, profile, hero, card, background, custom
+  homepageImage = "/img/iceland.jpg" # used in: hero, and card
+  showRecent = false
+  showRecentItems = 10
+  showMoreLink = true
+  showMoreLinkDest = "posts"
+  cardView = true
+  cardViewScreenWidth = false
+  layoutBackgroundBlur = true # only used when layout equals background
+  disableHeroImageFilter = false # only used when layout equals hero
