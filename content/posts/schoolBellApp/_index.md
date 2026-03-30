@@ -23,4 +23,4 @@ Key Features:
 * School Simulations: Test bell timings and schedules for educational institutions.
 * Customize your schedule and effortlessly manage your study plan.
 * No Ads.
-  Hear the bell. Stay on track. Download SchoolBell today.
+  Hear the bell. Stay on track. [Download SchoolBell](https://apps.apple.com/us/app/schoolbell-at-home/id6760388986) today.

@@ -22,4 +22,4 @@ tags: ["productivity", "tools"]
 * 学校模拟：测试校铃时间和课程表以供教育机构使用。
 * 自定义schedule，轻松搞定自己的学习计划。
 * 无广告，体验好。
-  聆听钟声。保持正轨。立即下载 `校园铃声`（SchoolBell）。
+  聆听钟声。保持正轨。[立即下载 校园铃声](https://apps.apple.com/us/app/schoolbell-at-home/id6760388986)（SchoolBell）。
