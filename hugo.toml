@@ -1,8 +1,0 @@
-baseURL = 'https://opcompany.org/'
-locale = 'en-us'
-title = 'One Person Company'
-theme = 'blowfish'
-[module]
-  [module.hugoVersion]
-    min = "0.110.0"
-    # 这里不写 max，Hugo 就会默认跳过上限检查
