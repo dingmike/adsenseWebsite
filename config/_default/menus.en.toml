@@ -14,7 +14,10 @@
   name = "OPCPosts"
   pageRef = "posts"
   weight = 5
-
+[[main]]
+  name = "AI Web Portal"
+  pageRef = "webPortal"
+  weight = 10
 [[main]]
   name = "BlowFishDocs"
   pageRef = "docs"

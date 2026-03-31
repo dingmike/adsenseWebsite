@@ -13,7 +13,10 @@
   name = "OPCPosts"
   pageRef = "posts"
   weight = 5
-
+[[main]]
+  name = "AI资料导航"
+  pageRef = "webPortal"
+  weight = 10
 
 [[main]]
   name = "BlowFish文档"
