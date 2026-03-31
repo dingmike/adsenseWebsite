@@ -8,7 +8,7 @@ title = 'One Person Company'
   isoCode = "zh-cn"
   rtl = false
   dateFormat = "2006-01-02"
-  logo = "img/beetle_logo.png" # 这样它就会去 assets/img/ 找图
+#  logo = "img/beetle_logo.png" # 这样它就会去 assets/img/ 找图  暂时去掉logo
   description = "One Person Company For Everyone."
 
 [params.author]

@@ -11,7 +11,7 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "OPCPosts"
+  name = "OPC Posts"
   pageRef = "posts"
   weight = 5
 [[main]]
@@ -90,10 +90,10 @@
 # The footer menu is displayed at the bottom of the page, just before
 # the copyright notice. Configure as per the main menu above.
 
-# [[footer]]
-#   name = "Tags"
-#   pageRef = "tags"
-#   weight = 10
+ [[footer]]
+   name = "Tags"
+   pageRef = "tags"
+   weight = 10
 #
 # [[footer]]
 #   name = "Authors"
