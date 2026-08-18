@@ -1,12 +1,12 @@
 ---
-title: "LangGraph 实战：30 行代码，搭一个会"自己分流"的 AI 智能客服"
+title: "LangGraph 实战: 30 行代码,搭一个会'自己分流'的 AI 智能客服"
 weight: 1
 draft: false
 description: "还记得我们上一篇聊过：用 LangChain 的 20 行代码，就能搭一个简单的 AI 应用。但真实的业务，往往不是一条直线。"
 tags: ["AI", "Agent", "langGraph" ]
 ---
 
-![FDE](featured.png "FDE")
+![FDE](featured.png "langGraph")
 -----
 
 

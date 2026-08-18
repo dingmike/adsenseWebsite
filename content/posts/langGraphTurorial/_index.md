@@ -6,7 +6,7 @@ description: "In the previous article we built a simple AI Q&A app with LangChai
 tags: ["AI", "Agent", "langGraph" ]
 ---
 
-![FDE](featured.png "FDE")
+![FDE](featured.png "langGraph")
 -----
 
 
